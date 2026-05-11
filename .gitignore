@@ -1,0 +1,15 @@
+# Credentials — never commit these
+.env
+access key.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
