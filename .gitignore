@@ -7,8 +7,16 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Output / Generated files
+s3_list_response.json
+*.json
+
 # Logs
 *.log
+logs/
+
+# Uploads
+uploads/
 
 # IDE
 .vscode/
